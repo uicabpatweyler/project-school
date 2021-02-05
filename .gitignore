@@ -1,7 +1,7 @@
 /node_modules
 /public/hot
 /public/storage
-/public/dashlite
+/public/dashlite-v2.3
 /storage/*.key
 /.idea
 /vendor
